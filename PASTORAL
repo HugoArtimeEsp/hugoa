@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>enriqueta aymer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="https://th.bing.com/th/id/OLC.jGQk85D4wIzGZg480x360?&rs=1&pid=ImgDetMain" alt="Logo">
+        </div>
+       <nav>
+            <ul>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/XJWoxQj" target="_self">SOBRE NOSOTROS</a></li>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/RNwvaaV" target="_self">MENÚ EDUCATIVO</a></li>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/NPWZWry?editors=1100" target="_self">LEMA</a></li>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/WbNqNjy" target="_self">ADMISIONES</a></li>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/ZYEdEKP" target="_self">PASTORAL</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+<body>
+    <div class="container">
+        <h1 style="text-align: center;">Pastoral</h1>
+
+    <!-- Sección Descripción -->
+    <div class="section">
+        <h2>Un Colegio En Pastoral</h2>
+        <p>El Colegio Enriqueta Aymer está constituido por una Comunidad Educativa Cristiana, que ofrece una educación integral a niños y jóvenes, desde la perspectiva y misión de la Congregación de los Sagrados Corazones SSCC.</p>
+        <p>La Congregación nace al calor de la Eucaristía, su carisma se puede expresar así: «contemplar, vivir y anunciar al mundo el amor de Dios, manifestado en el Corazón de Jesucristo y en el de su madre, María».</p>
+        <p>Una Escuela, auténtica Comunidad Educativa, cuya identidad cristiana se proyecta en las personas y en las estructuras de su entorno.</p>
+    </div>
+
+    <!-- Proyecto Pastoral -->
+    <div class="section">
+        <h2>Proyecto Pastoral</h2>
+        <p>Para conseguirlo, el colegio atiende a una serie de aspectos o dimensiones que irán configurando, poco a poco, el proceso de crecimiento en su identidad cristiana y educación en la fe a través de un Proyecto Pastoral.</p>
+        <p>Este Proyecto está coordinado por el Equipo de Pastoral del centro, encargado de desarrollar, potenciar y dinamizar las actividades que se programan para llevar a cabo los objetivos del Proyecto.</p>
+    </div>
+
+    <!-- Imagen Vinculada -->
+  
+            <img src="https://www.eaymersscc.com/wp-content/uploads/2014/08/itinerario.jpg" alt="Itinerario Pastoral">
+        </a>
+        <p style="text-align: center; font-style: italic;">Imagen del Itinerario Pastoral (Haz clic para ver en tamaño completo)</p>
+    </div>
+
+</body>
+<footer>
+        <p>&copy; 2025 Enriqueta Aymer por Hugo Artime. Todos los derechos reservados.</p>
+    </footer>
+</html>
