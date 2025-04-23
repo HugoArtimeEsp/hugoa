@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>enriqueta aymer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="https://th.bing.com/th/id/OLC.jGQk85D4wIzGZg480x360?&rs=1&pid=ImgDetMain" alt="Logo">
+        </div>
+       <nav>
+            <ul>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/XJWoxQj" target="_self">SOBRE NOSOTROS</a></li>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/RNwvaaV" target="_self">MENÚ EDUCATIVO</a></li>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/NPWZWry?editors=1100" target="_self">LEMA</a></li>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/WbNqNjy" target="_self">ADMISIONES</a></li>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/ZYEdEKP" target="_self">PASTORAL</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+<body>
+    <div class="container">
+        <h1>DAME UN SÍ</h1>
+        <p>Este año queremos conocer la figura de la <span class="highlight">Virgen María</span> y transmitir sus valores. Con la idea de que María es la madre de todos, que nos quiere a todos por igual, nos detendremos a hablar de ella sobre la forma en que nos cuida, nos acompaña y su manera de mirarnos, aunque no la veamos.</p>
+        <p>María, como madre de Jesús, tiene un corazón tan grande que dijo <span class="highlight">SÍ a Dios</span>, sin pensarlo dos veces. Esto es un ejemplo de valentía, amor y entrega.</p>
+        <p>Para profundizar en este tema y acercarla a nuestros alumnos, vamos a realizar actividades, tanto en el inicio del curso, con nuestro Lema "<span class="highlight">Dame un Sí</span>", como en otros momentos claves, como el adviento o el mes de mayo, en los que podremos conocerla más a fondo y nos servirá de modelo en nuestra vida para que nosotros también demos nuestro sí.</p>
+      <h1>Lemas Posibles y sus Significados</h1>
+<table>
+        <thead>
+            <tr>
+                <th>Lema</th>
+                <th>Significado</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Dame un Sí</td>
+                <td>Un llamado a la valentía, el compromiso y la entrega, inspirado en el "Sí" de la Virgen María a Dios.</td>
+            </tr>
+            <tr>
+                <td>Juntos Construimos</td>
+                <td>Destaca la importancia del trabajo en equipo, la colaboración y el esfuerzo compartido para alcanzar metas comunes.</td>
+            </tr>
+            <tr>
+                <td>Más Allá de las Palabras</td>
+                <td>Invita a la acción y a demostrar con hechos lo que se dice con palabras, promoviendo la autenticidad y la responsabilidad.</td>
+            </tr>
+            <tr>
+                <td>Crezcamos Juntos</td>
+                <td>Fomenta el desarrollo personal y colectivo, destacando la importancia de aprender y avanzar como comunidad.</td>
+            </tr>
+            <tr>
+                <td>Construyendo Futuro</td>
+                <td>Enfatiza la visión hacia el futuro, el esfuerzo presente y la construcción de un mundo mejor para las próximas generaciones.</td>
+            </tr>
+            <tr>
+                <td>El Amor Nos Une</td>
+                <td>Resalta el valor del amor, la empatía y la solidaridad como pilares fundamentales para unir a las personas.</td>
+            </tr>
+        </tbody>
+    </table>
+        <img src="https://www.eaymersscc.com/wp-content/uploads/2024/12/Cartel-Lema.png" alt="Cartel Lema Pastoral 2024-25" weight: "300" >
+        <div class="signature">
+            — Enriqueta aymer
+        </div>
+    </div>
+</body>
+<footer>
+        <p>&copy; 2025 Enriqueta Aymer por Hugo Artime. Todos los derechos reservados.</p>
+    </footer>
+</html>
+   
