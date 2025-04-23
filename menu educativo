@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>enriqueta aymer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="https://th.bing.com/th/id/OLC.jGQk85D4wIzGZg480x360?&rs=1&pid=ImgDetMain" alt="Logo">
+        </div>
+       <nav>
+            <ul>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/XJWoxQj" target="_self">SOBRE NOSOTROS</a></li>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/RNwvaaV" target="_self">MENÚ EDUCATIVO</a></li>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/NPWZWry?editors=1100" target="_self">LEMA</a></li>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/WbNqNjy" target="_self">ADMISIONES</a></li>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/ZYEdEKP" target="_self">PASTORAL</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="inicio" class="seccion-intro">
+        <div class="intro-content">
+            
+           
+    </section>
+
+    <section id="about" class="seccion">
+      <body>
+
+    <!-- Tabla -->
+    <table>
+        <thead>
+            <tr>
+                <th>Información del Colegio</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>
+                    <p>A diferencia de la mayor parte de centros, nuestro colegio ofrece el Bachillerato concertado en las modalidades de Ciencias y Humanidades y Ciencias Sociales.</p>
+                    <p>Se trata de una etapa no obligatoria. Por tanto, los alumnos con los que contamos en estos cursos son personas que, o bien tienen un objetivo claro que alcanzar, o bien necesitan encontrar ese objetivo para sus vidas. Nuestra labor en esta etapa es ayudarles a encontrar y consolidar esa vocación que les ayude a dar los siguientes pasos y que es la clave de su felicidad en el futuro.</p>
+                    <p>Además, si hay algo que valoran nuestros alumnos y antiguos alumnos, aparte de la cercanía y disponibilidad de nuestros profesores, es la calidad de la enseñanza y la buena preparación que reciben para enfrentarse a los retos que se les presentan al salir del colegio.</p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- Video -->
+    <div class="video-container">
+        <iframe width="510" height="287" src="https://www.youtube.com/embed/iRblsIGTMJg" title="Alumnos SSCC Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <!-- Estadísticas de Alumnos -->
+    <table>
+        <thead>
+            <tr>
+                <th>Nivel Educativo</th>
+                <th>Número de Alumnos</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Infantil</td>
+                <td>111</td>
+            </tr>
+            <tr>
+                <td>Primaria</td>
+                <td>297</td>
+            </tr>
+            <tr>
+                <td>ESO</td>
+                <td>224</td>
+            </tr>
+            <tr>
+                <td>Bachillerato</td>
+                <td>114</td>
+            </tr>
+        </tbody>
+    </table>
+    
+
+</body>
+</html>
+</html>
