@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>enriqueta aymer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <img src="https://th.bing.com/th/id/OLC.jGQk85D4wIzGZg480x360?&rs=1&pid=ImgDetMain" alt="Logo">
+        </div>
+       <nav>
+            <ul>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/XJWoxQj" target="_self">SOBRE NOSOTROS</a></li>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/RNwvaaV" target="_self">MENÚ EDUCATIVO</a></li>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/NPWZWry?editors=1100" target="_self">LEMA</a></li>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/WbNqNjy" target="_self">ADMISIONES</a></li>
+                <li><a href="https://codepen.io/Hugo-Artime/pen/ZYEdEKP" target="_self">PASTORAL</a></li>
+            </ul>
+        </nav>
+    </header>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proceso de Admisión 2025/2026</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        ul {
+            margin-left: 20px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .highlight {
+            background-color: #f9f9f9;
+            padding: 10px;
+            border-left: 5px solid #007BFF;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Título Principal -->
+    <h1 style="text-align: center;">Proceso de Admisión 2025/2026</h1>
+
+    <!-- Información General -->
+    <div class="section">
+        <p>La información sobre el proceso de admisión para el curso escolar 2025-2026, normativa, baremo, criterios de admisión, procedimientos, etc., se puede consultar en la página web de la Comunidad de Madrid:</p>
+        <p><a href="https://www.comunidad.madrid/servicios/educacion/solicita-tu-admision-educacion-infantil-obligatoria-bachillerato" target="_blank">Consulta aquí el proceso de admisión en la Comunidad de Madrid</a>.</p>
+    </div>
+
+    <!-- Documento de Información Básica -->
+    <div class="section">
+        <h2>Documento de Información Básica del Proceso de Admisión 2025/2026</h2>
+        <p>A continuación, se detallan los criterios y baremos para el proceso de admisión:</p>
+        <ul>
+            <li><strong>Criterios para la baremación de solicitudes:</strong> Para el proceso de admisión de alumnos en Centros Sostenidos con Fondos Públicos.</li>
+            <li><strong>Baremo de solicitudes:</strong> Aplicable para las etapas de segundo ciclo de educación infantil, educación primaria y educación secundaria obligatoria.</li>
+            <li><strong>Baremo de solicitudes para Bachillerato:</strong> Específico para la etapa de Bachillerato.</li>
+        </ul>
+    </div>
+
+    <!-- Anexo 1: Oferta de Vacantes -->
+    <div class="section">
+        <h2>Anexo 1: Oferta de Vacantes</h2>
+        <p><strong>Niveles Concertados:</strong> Ed. Infantil, Ed. Primaria, E.S.O. y Bachillerato.</p>
+        <p>Al ser niveles en régimen de Concierto Educativo, el proceso de Admisión está regulado por las instrucciones y normativa que establece la Consejería de Educación de la Comunidad de Madrid.</p>
+    </div>
+
+    <!-- Plazo de Presentación de Solicitudes -->
+    <div class="section">
+        <h3>Plazo de Presentación de Solicitudes</h3>
+        <p><strong>Del 12 al 26 de marzo de 2025 (ambas fechas inclusive).</strong></p>
+        <p>La solicitud de admisión se podrá presentar por vía telemática, opción que facilita y agiliza el proceso de admisión, así como el acceso al seguimiento e información sobre su desarrollo. La solicitud se dirigirá al primer centro incluido en la misma.</p>
+        <p><a href="https://www.comunidad.madrid/servicios/educacion/secretaria-virtual" target="_blank">Acceso a la Secretaría Virtual</a>.</p>
+        <p><strong>Nota:</strong> Solo podrá presentarse una solicitud por alumno. La presentación de más de una solicitud dará lugar a la anulación de todas.</p>
+    </div>
+
+    <!-- Criterios Adicionales -->
+    <div class="section">
+        <h3>Criterios Adicionales</h3>
+        <p>En la presentación de solicitudes hay que tener en cuenta lo siguiente:</p>
+        <ul>
+            <li>Toda solicitud de admisión será cumplimentada y firmada por ambos progenitores o tutores legales, salvo si se acredita la imposibilidad de hacerlo o alguno de ellos no ostenta la patria potestad, en cuyo caso se deberá presentar la oportuna declaración responsable.</li>
+            <li>Se podrá acceder a la Secretaría Virtual mediante las siguientes opciones:
+                <ul>
+                    <li>Certificado digital</li>
+                    <li>Identificación electrónica Cl@ve</li>
+                    <li>Acceso sin certificado digital a través del registro informático @SCV, que se activará mediante un mensaje al teléfono móvil, lo que permitirá acceder con su DNI y clave.</li>
+                    <li>Acceso a través de la validación de credenciales de la aplicación Roble/Raíces.</li>
+                </ul>
+            </li>
+            <li>Para alumnos con necesidades educativas especiales, se adjuntará el anexo V facilitado por la red de orientación especializada, a petición de las familias.</li>
+        </ul>
+    </div>
+
+    <!-- Lugar de Recogida y Entrega de Solicitudes -->
+    <div class="section highlight">
+        <h3>Lugar de Recogida y Entrega de Solicitudes</h3>
+        <p><strong>Lugar de recogida de solicitudes:</strong> En la recepción del Colegio, de 8:30 a 17:00 horas.</p>
+        <p><strong>Lugar de entrega de solicitudes con la documentación:</strong> En la secretaría del Colegio, con cita previa que deberán pedir a través del teléfono <a href="tel:+34917052100">91 705 21 00</a>.</p>
+    </div>
+
+
+<body>
+    <div class="container">
+        <table>
+        <thead>
+            <tr>
+                <th>PRINCIPALES ACTUACIONES</th>
+                <th>CALENDARIO</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Plazo de presentación de solicitudes para el proceso de admisión. Las solicitudes se presentarán preferentemente de forma telemática. En caso de dificultad o imposibilidad técnica se podrán entregar presencialmente en el primer centro incluido en la solicitud.</td>
+                <td>Del 12 al 26 de marzo de 2025</td>
+            </tr>
+            <tr class="highlight">
+                <td>Celebración del sorteo para resolver posibles empates organizado por la Consejería de Educación, Ciencia y Universidades.</td>
+                <td>2 de abril de 2025</td>
+            </tr>
+            <tr>
+                <td>Se hacen públicos los listados provisionales de todos los alumnos que han solicitado el centro en primera opción.</td>
+                <td>4 de abril de 2025</td>
+            </tr>
+            <tr class="highlight">
+                <td>Plazo para formular reclamaciones al listado de alumnos solicitantes.</td>
+                <td>7, 8 y 9 de abril de 2025</td>
+            </tr>
+            <tr>
+                <td>Publicación de los listados provisionales de puntuación. Estos listados incluirán la resolución de las reclamaciones al listado de alumnos solicitantes.</td>
+                <td>24 de abril de 2025</td>
+            </tr>
+            <tr class="highlight">
+                <td>Plazo para formular reclamaciones a la lista provisional de puntuación.</td>
+                <td>25, 28 y 29 de abril de 2025</td>
+            </tr>
+            <tr>
+                <td>Los SAE responsables de la escolarización de los alumnos con NEE en cada DAT elaborarán las propuestas de escolarización considerando el perfil específico del alumno, la baremación obtenida, la solicitud priorizada de centros presentada por la familia y la reserva de vacantes para estos alumnos.</td>
+                <td>Hasta el 5 de mayo de 2025</td>
+            </tr>
+            <tr class="highlight">
+                <td>Propuesta provisional de escolarización de alumnos con NEE</td>
+                <td>6 de mayo de 2025</td>
+            </tr>
+            <tr>
+                <td>Plazo de consulta, y en su caso alegaciones, a las propuestas provisionales de escolarización de los alumnos con NEE elaboradas por los SAE. Plazo voluntario para realizar solicitud complementaria de centros en el SAE para alumnos con NEE que no hayan obtenido plaza escolar en ninguno de los centros solicitados y no dispongan de plaza para el curso 2025/2026.</td>
+                <td>7, 8 y 9 de mayo de 2025</td>
+            </tr>
+            <tr class="highlight">
+                <td>Publicación del listado definitivo de puntuaciones de solicitudes baremadas, una vez revisadas las reclamaciones recibidas.</td>
+                <td>8 de mayo de 2025</td>
+            </tr>
+            <tr>
+                <td>Los SAE respectivos informan sobre la adjudicación definitiva de plaza escolar a los alumnos que presentan NEE.</td>
+                <td>14 de mayo de 2025</td>
+            </tr>
+            <tr class="highlight">
+                <td>Publicación de la lista de admitidos en cada Centro.</td>
+                <td>28 de mayo de 2025</td>
+            </tr>
+            <tr>
+                <td>Plazo voluntario para realizar solicitud complementaria de centros ante el SAE que corresponda exclusivamente para alumnos que hayan participado en el proceso de admisión, no hayan obtenido plaza escolar en ninguno de los centros solicitados y no dispongan de plaza para el curso 2025/2026.</td>
+                <td>29 y 30 de mayo de 2025</td>
+            </tr>
+            <tr class="highlight">
+                <td>Adjudicación automática de plaza escolar, en función de las vacantes disponibles, para los alumnos que hayan presentado solicitud complementaria, así como para los alumnos que han presentado la solicitud complementaria y aparezcan como solicitantes no admitidos en los centros solicitados en proceso ordinario.</td>
+                <td>6 de junio de 2025</td>
+            </tr>
+            <tr>
+                <td>Adjudicación de plaza escolar por los SAE a los alumnos que no hayan podido ser admitidos en ninguna de las opciones solicitadas y no dispongan de plaza para el curso 2025/2026, así como a las solicitudes duplicadas, las que contengan datos erróneos y las presentadas fuera de plazo o no presentadas que no dispongan de plaza para el curso 2025/2026.</td>
+                <td>Hasta el 13 de junio de 2025</td>
+            </tr>
+            <tr class="highlight">
+                <td>Plazo de matriculación en los centros de Educación Infantil, Primaria y Especial.</td>
+                <td>Del 12 al 26 de junio de 2025</td>
+            </tr>
+            <tr>
+                <td>Plazo general de matriculación en los centros de Educación Secundaria</td>
+                <td>Del 12 de junio al 4 de julio de 2025</td>
+            </tr>
+        </tbody>
+    </table>
+<footer>
+        <p>&copy; 2025 Enriqueta Aymer por Hugo Artime. Todos los derechos reservados.</p>
+    </footer>
+</html>
+   
